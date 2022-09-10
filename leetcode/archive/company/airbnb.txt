@@ -1,0 +1,40 @@
+756 
+Pyramid Transition Matrix   50.2%   Medium  
+751 
+IP to CIDR   Easy    
+42  
+Trapping Rain Water 41.7%   Hard    
+39  
+Combination Sum 46.5%   Medium  
+1   
+Two Sum 40.8%   Easy    
+336 
+Palindrome Pairs    30.0%   Hard    
+787 
+Cheapest Flights Within K Stops 33.9%   Medium  
+269 
+Alien Dictionary   Hard    
+773 
+Sliding Puzzle  50.3%   Hard    
+4   
+Median of Two Sorted Arrays 25.4%   Hard    
+251 
+Flatten 2D Vector   Medium  
+755 
+Pour Water   Medium  
+341 
+Flatten Nested List Iterator    46.7%   Medium  
+212 
+Word Search II  27.5%   Hard    
+76  
+Minimum Window Substring    29.7%   Hard    
+324 
+Wiggle Sort II  27.4%   Medium  
+5   
+Longest Palindromic Substring   26.5%   Medium  
+322 
+Coin Change 29.0%   Medium  
+21  
+Merge Two Sorted Lists  45.6%   Easy    
+759 
+Employee Free Time   Hard
